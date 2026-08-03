@@ -1,6 +1,6 @@
 # 📊📈 FatimaZahraa Harrak – Data Analyst Portfolio
 
-Hi! I’m **FatimaZahraa Harrak**, a Data Analyst skilled in **Excel, SQL, and Power BI**.  
+Hi! I'm **FatimaZahraa Harrak**, a Data Analyst skilled in **Excel, SQL, and Power BI**.
 I help turn raw data into actionable insights through analysis, visualization, and reporting.
 
 ---
@@ -10,7 +10,7 @@ I help turn raw data into actionable insights through analysis, visualization, a
 ### 1. 🚴 Bike Sales Analysis
 - **Tools:** Excel, Power BI
 - **Description:** Analyzed sales trends, seasonal demand, and revenue by region. Built an interactive dashboard in Power BI for management insights.
-- **Files:**  [/powerbi/Bike_Sales.pbix](https://app.powerbi.com/groups/me/reports/c4c23177-0d65-438c-912f-8ef9b014bddb/8a3e435a32a3e7407018?experience=power-bi)
+- **Files:** [/powerbi/Bike_Sales.pbix](https://app.powerbi.com/groups/me/reports/c4c23177-0d65-438c-912f-8ef9b014bddb/8a3e435a32a3e7407018?experience=power-bi)
 
 ### 2. 🐾 Animal Shelter Adoption Dashboard
 - **Tools:** SQL, Excel, Power BI
@@ -22,16 +22,27 @@ I help turn raw data into actionable insights through analysis, visualization, a
 - **Description:** Explored sales patterns, best-selling products, and customer behavior. Created Excel reports and a Power BI dashboard.
 - **Files:** [/powerbi/CoffeeShopSalesDashboard.pbix](https://app.powerbi.com/groups/dc728b6b-6801-44bb-8e54-ff9719a1e779/reports/1a24db3f-c7fc-44b3-a6f6-fb72d6058804/f22ab27c4b37a16b68cd?experience=power-bi)
 
+### 4. 🩺 Your Doctor (QuickDiag) – AI Health App Market Analysis
+- **Tools:** Excel, Power BI, Business Analysis (BMC, VPC, MoSCoW, User Stories, UML)
+- **Description:** Led the full business analysis for an AI-powered medical triage app. Analyzed 40 competing health apps (downloads, ratings, pricing, business models), built an interactive Power BI dashboard, defined the product's Business Model Canvas, Value Proposition Canvas, MoSCoW requirements, and user stories.
+- **Preview:**
+
+  ![Medical Apps Market Analysis Dashboard](https://github.com/FatimaZahraa-Harrak/your-doctor-app/blob/main/dashboard/medical-apps-market-analysis-preview.png)
+
+- **Files:** [/dashboard/medical-apps-market-analysis.pbix](https://github.com/FatimaZahraa-Harrak/your-doctor-app/blob/main/dashboard/medical-apps-market-analysis.pbix)
+- **Full repo:** [FatimaZahraa-Harrak/your-doctor-app](https://github.com/FatimaZahraa-Harrak/your-doctor-app)
+
 ---
 
 ## 🔧 Tools & Skills
 - **Data Analysis:** Excel (pivot tables, formulas), SQL (queries, joins, aggregations), Power BI (dashboards, DAX)
 - **Data Cleaning:** Excel functions, Power Query
 - **Visualization:** Power BI, Excel charts
+- **Business Analysis:** MoSCoW prioritization, User Stories, Business Model Canvas, Value Proposition Canvas, UML diagrams
 - **Reporting:** Insights-driven dashboards and reports
 
 ---
 
 ## 📞 Contact
-- **LinkedIn:**  [LinkedIn – FatimaZahraa Harrak](www.linkedin.com/in/fatimazahraa-harrak-356510352)
+- **LinkedIn:** [FatimaZahraa Harrak](https://www.linkedin.com/in/fatimazahraa-harrak-356510352)
 - **Email:** Fatimaz.hk26@gmail.com
